@@ -4,7 +4,7 @@
 - [Eunbi-Sung]
 - [Shailesh Chauhan](https://github.com/sh1lezh) **Hey My first contri** Connect with me [X.com](https://x.com/sh1lezh) [Linkedin](https://linkedin.com/in/shaileshcn)
 - [Rudra]
-- [Ankita] (https://github.com/ankitabelekar151) **Hello everyone, this is my first contribution hope i will learn something new here and able to contribute**
+- [Ankita] (https://github.com/ankitabelekar151) **Hello everyone, this is my first contribution hope i will learn something new**
 -[Mihir](https://github.com/MIHIRstoic)***first time***
 - [Vaishnavi] (https://github.com/vishu1089) ***First Time, Hello to all!***
 - [Arul MUrugan](https://github.com/ArulMurugan13)
